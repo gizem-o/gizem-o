@@ -1,10 +1,10 @@
-### Hi, welcome to my GitHub! 👋
+# Hi, welcome to my GitHub! 👋
 
 ## About Me
 
 - 🔭 I’m currently finishing my Python bootcamp with HyperionDev.
 - 🌱 I’m currently learning Python fundamentals and how to use Git.
-- ✨ I have been learning Python for 3 months and you can see my journ
+- ✨ I have been learning Python for 3 months and you can see my journey through my GitHub! 😆
 
 ## Projects
 
